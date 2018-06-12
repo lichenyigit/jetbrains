@@ -1,0 +1,45 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ActionScript.add.unambiguous.imports.on.the.fly" value="true" />
+    <property name="ColorChooser.RecentColors" value="198-234-198-255,,,12-126-234-255,,,0-93-129-255,,,11-43-25-255,,,14-33-65-255,,,154-155-37-255,,,30-38-155-255,,,192-158-1-255,,,231-235-9-255,,,0-61-139-255,,,0-38-77-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.69186044" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="Find in Path&#10;commit&#10;move line&#10;implement&#10;implementation(s)" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="python&#10;codehe&#10;codehel" />
+    <property name="SearchEveryWhereHistory" value="CreateArticle" />
+    <property name="SplitFileEditor.Proportion" value="0.6218548" />
+    <property name="android-component-compatibility-check" value="1528814185505" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="dir.diff.panel.divider.location" value="122" />
+    <property name="evlsprt3.173" value="11" />
+    <property name="evlsprt3.181" value="17" />
+    <property name="file.chooser.recent.files" value="E:/Git repository/asia.tokaji.web&#10;E:/Git repository/asia.tokaji.service&#10;E:/Git repository/java.ffmpeg.demo&#10;D:/Program Files/python/Python36/python.exe&#10;E:/Git repository/java.servlet.service.demo&#10;F:/download baiduyun/20180315/fwd-ishare-mis-share&#10;F:/download baiduyun/20180315/fwd-ishare-mis&#10;E:/ideaspace/trunk&#10;E:/ideaspace&#10;E:/ideaspace/web/trunk&#10;E:/ideaspace/web/trunk/com.youxiduo.yxvl.backstage&#10;E:/ideaspace/web/trunk/com.youxiduo.yxvl.mainstage&#10;E:/ideaspace/web/trunk/com.youxiduo.wwwvl.mainstage&#10;E:/ideaspace/trunk/com.youxiduo.wwwvl.mainstage&#10;E:/Git repository/java.netty.demo&#10;E:/Git repository/com.levtime.overseas&#10;E:/Git repository/youxiduo.shihou.html.www.cms&#10;E:/Git repository/haitao.H5.thymeleaf&#10;E:/Git repository/com.xiyaoxiyao.wechat.service&#10;E:/Git repository/java.learning/src/test/java/learning/StringTest.java&#10;E:/Git repository/java.learning&#10;E:/Git repository/cn.lichenyi.ali.pay.service/src/main/resources/lib&#10;E:/Git repository/cn.lichenyi.wechat.pay.service&#10;E:/Git repository/cn.lichenyi.ali.pay.service&#10;F:/download google/WxPayAPI_JAVA_v3/java-sdk-v3&#10;E:/Git repository/cn.lichenyi.wechat.pay.service/target/classes&#10;E:/Git repository/java.wechat.service&#10;E:/Git repository/java.webscoket&#10;D:/Program Files/Java/jdk1.8.0_131&#10;D:/apache-maven-3.5.0/conf/settings.xml" />
+    <property name="file.gist.reindex.count" value="7117" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="last.imported.location" value="E:/Git repository/java.ffmpeg.demo" />
+    <property name="lastTip" value="1" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Arrangement" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>

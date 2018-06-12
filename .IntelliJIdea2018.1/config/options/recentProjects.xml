@@ -1,0 +1,487 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/Git repository/jetbrains" />
+        <option value="E:/Git repository/java.ueditorOSS.demo" />
+        <option value="E:/Git repository/asia.tokaji.web" />
+        <option value="E:/Git repository/asia.tokaji.service" />
+        <option value="E:/Git repository/com.xiyaoxiyao.wechat.service" />
+        <option value="E:/Git repository/wangyijianwai.demo" />
+        <option value="E:/Git repository/java.ffmpeg.demo" />
+        <option value="E:/Git repository/python.learning" />
+        <option value="E:/ideaspace/web/trunk/com.youxiduo.yxvl.backstage" />
+        <option value="E:/Git repository/java.servlet.service.demo" />
+        <option value="E:/ideaspace/web/trunk/com.youxiduo.wwwvl.mainstage" />
+        <option value="F:/download baiduyun/20180315/fwd-ishare-mis-share" />
+        <option value="F:/download baiduyun/20180315/fwd-ishare-mis" />
+        <option value="F:/download baiduyun/20180315/fwd-ishare-front" />
+        <option value="E:/ideaspace/trunk/com.shihou.module.ad" />
+        <option value="E:/Git repository/java.oauth.weixin" />
+        <option value="E:/Git repository/java.oauth.qq" />
+        <option value="E:/ideaspace/trunk/com.shihoutv.www" />
+        <option value="E:/ideaspace/trunk/com.shihou.service.extra.wage" />
+        <option value="E:/ideaspace/web/trunk/com.shihou.module.pay" />
+        <option value="E:/ideaspace/web/trunk/2017_summer_activities" />
+        <option value="E:/ideaspace/web/trunk/com.youxiduo.yxvl.mainstage" />
+        <option value="E:/Git repository/java.learning" />
+        <option value="E:/ideaspace/trunk/com.youxiduo.wwwvl.mainstage" />
+        <option value="E:/Git repository/ping.service" />
+        <option value="E:/Git repository/com.levtime.overseas" />
+        <option value="E:/Git repository/haitao.H5.thymeleaf" />
+        <option value="E:/Git repository/youxiduo.shihou.html.www.cms" />
+        <option value="E:/Git repository/cn.lichenyi.wechat.pay.service" />
+        <option value="E:/Git repository/cn.lichenyi.ali.pay.service" />
+        <option value="F:/download google/WxPayAPI_JAVA_v3/java-sdk-v3" />
+        <option value="E:/Git repository/java.wechat.service" />
+        <option value="E:/Git repository/java.webscoket" />
+        <option value="E:/Git repository/designModel4-proxy" />
+        <option value="E:/Git repository/pingpp-java" />
+        <option value="E:/ideaspace/com.shihou.service.extra.wage" />
+        <option value="E:/Git repository/oauth.qq" />
+        <option value="E:/Git repository/lichenyi.beetl.demo" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/Git repository/jetbrains" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/Git repository/jetbrains" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/Git repository/asia.tokaji.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528826202893" />
+              <option name="buildTimestamp" value="1526505740153" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/asia.tokaji.web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528826204252" />
+              <option name="buildTimestamp" value="1526505740153" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/cn.lichenyi.ali.pay.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504398610679" />
+              <option name="buildTimestamp" value="1502780390312" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/cn.lichenyi.wechat.pay.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504404384598" />
+              <option name="buildTimestamp" value="1502780390312" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/com.levtime.overseas">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513469705039" />
+              <option name="buildTimestamp" value="1511788733740" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/com.xiyaoxiyao.wechat.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528815034074" />
+              <option name="buildTimestamp" value="1526505740153" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/designModel4-proxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502501858070" />
+              <option name="buildTimestamp" value="1501515089700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/haitao.H5.thymeleaf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513261288800" />
+              <option name="buildTimestamp" value="1511788722673" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.ffmpeg.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527999098779" />
+              <option name="buildTimestamp" value="1516033071936" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519382929964" />
+              <option name="buildTimestamp" value="1516033055000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.netty.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516284765813" />
+              <option name="buildTimestamp" value="1516033070683" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.oauth.qq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519399962669" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.oauth.weixin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519399967257" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.servlet.service.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523285842273" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.ueditorOSS.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528827530327" />
+              <option name="buildTimestamp" value="1526505741309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.webscoket">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502501990195" />
+              <option name="buildTimestamp" value="1501515088863" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/java.wechat.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503495420435" />
+              <option name="buildTimestamp" value="1501515096671" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/jetbrains">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528830994890" />
+              <option name="buildTimestamp" value="1526505728802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/lichenyi.beetl.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.70" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499340648140" />
+              <option name="buildTimestamp" value="1499153439588" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/oauth.qq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.70" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499341565416" />
+              <option name="buildTimestamp" value="1499153439588" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/ping.service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516027684969" />
+              <option name="buildTimestamp" value="1514220693204" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/pingpp-java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.70" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499505567930" />
+              <option name="buildTimestamp" value="1499153451939" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/python.learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524966461761" />
+              <option name="buildTimestamp" value="1516033069848" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/wangyijianwai.demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528786399640" />
+              <option name="buildTimestamp" value="1516033026890" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git repository/youxiduo.shihou.html.www.cms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512999944121" />
+              <option name="buildTimestamp" value="1511788731313" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/com.shihou.service.extra.wage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.70" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499494586835" />
+              <option name="buildTimestamp" value="1499153451939" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/trunk/com.shihou.module.ad">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519399969596" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/trunk/com.shihou.service.extra.wage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519395330228" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/trunk/com.shihoutv.www">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519399959702" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/trunk/com.youxiduo.wwwvl.mainstage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519382371054" />
+              <option name="buildTimestamp" value="1516033055000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/web/trunk/2017_summer_activities">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519395326908" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/web/trunk/com.shihou.module.pay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519395328321" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/web/trunk/com.youxiduo.wwwvl.mainstage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523285683150" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/web/trunk/com.youxiduo.yxvl.backstage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523289158965" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/ideaspace/web/trunk/com.youxiduo.yxvl.mainstage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519389211870" />
+              <option name="buildTimestamp" value="1516033064589" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/download baiduyun/20180315/fwd-ishare-front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523289158965" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/download baiduyun/20180315/fwd-ishare-mis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523289158965" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/download baiduyun/20180315/fwd-ishare-mis-share">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523289158965" />
+              <option name="buildTimestamp" value="1516033060703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/download google/WxPayAPI_JAVA_v3/java-sdk-v3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504027744459" />
+              <option name="buildTimestamp" value="1502780398006" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/Git repository" />
+  </component>
+</application>
