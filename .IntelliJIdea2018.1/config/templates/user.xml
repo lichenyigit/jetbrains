@@ -1,0 +1,21 @@
+<templateSet group="user">
+  <template name="main" value="public static void main(String args[]) { &#10;    &#10;}" shortcut="ENTER" description="java main方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sysout" value="System.out.println();" shortcut="ENTER" description="System.out.println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/**" value="/**&#10; *&#10; *@return $return$&#10; *@param $param$&#10; *@auther Lichenyi&#10; *@date $date$ $time$&#10; */" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
