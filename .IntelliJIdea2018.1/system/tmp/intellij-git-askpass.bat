@@ -1,0 +1,2 @@
+@echo off
+"D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/jre64/bin/java" -cp "D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/plugins/git4idea/lib/git4idea-rt.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/lib/xmlrpc-2.0.1.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/lib/commons-codec-1.9.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/lib/util.jar" org.jetbrains.git4idea.http.GitAskPassApp %*
